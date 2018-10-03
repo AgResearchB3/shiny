@@ -1,3 +1,4 @@
-climate_match_maps/
+00_create-leaflet-maps-and-shiny-app/
+FourLeafletCmiMaps_12Sept2018.RData
+packrat/
 rsconnect/
-.Rhistory
